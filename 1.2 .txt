@@ -1,1 +1,1 @@
-.
+{"title":"کاربر گرامی ","message":"جهت حمایت از ما و استفاده از برنامه حتما در کانال تلگرام ما عضو شوید ❤️⚡️","dismissable":false,"dismissTxt":"رد","okTxt":"عضویت در تلگرام","okUrl":"tg://join?invite=8DgCh9cRHEAwMGZk","status":"ok"}
